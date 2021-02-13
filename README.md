@@ -1,6 +1,6 @@
 # redux-mock-store-tuner
 
-This just is wrapper of redux-mock-store that allows you to update current Redux store of your application to let your testing React-component get appropriate state of storage. Be aware that package needs TypeScript version not less than 4.1.3, because only from that version TypeScript provides ability of recursive types inferring.
+This is just wrapper of the redux-mock-store that allows you to update current Redux store of your application to let your testing React-component get appropriate state of storage. Be aware that the package needs TypeScript version not less than 4.1.3, because only from that version TypeScript provides ability of recursive types inferring.
 
 ## Installation
 
