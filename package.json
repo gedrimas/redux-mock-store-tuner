@@ -1,0 +1,35 @@
+{
+  "name": "redux-mock-store-tuner",
+  "version": "1.0.0",
+  "description": "Redux state configurator",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gedrimas/redux-mock-store-tuner.git"
+  },
+  "author": "“Artur <“a.a.gedrimas@gmail.com”> (https://www.facebook.com/artur.gedrimas.5)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gedrimas/redux-mock-store-tuner/issues"
+  },
+  "homepage": "https://github.com/gedrimas/redux-mock-store-tuner#readme",
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@babel/preset-typescript": "^7.12.16",
+    "@types/jest": "^26.0.20",
+    "@types/redux-mock-store": "^1.0.2",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "redux-mock-store": "^1.5.4",
+    "typescript": "^4.1.5"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.0"
+  }
+}
